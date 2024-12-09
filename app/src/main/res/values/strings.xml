@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="text_field_label">Enter city to know weather condition</string>
+    <string name="toolbar_title">"Weather Application"</string>
+</resources>
